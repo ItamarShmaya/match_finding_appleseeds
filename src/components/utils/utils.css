@@ -1,0 +1,27 @@
+.counter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.fa-thumbs-down {
+  color: red;
+}
+
+.fa-thumbs-up {
+  color: green;
+}
+
+.btn {
+  background-color: cadetblue;
+  color: #fff;
+  font-size: 1.5rem;
+  padding: 1rem;
+  border-radius: 5px;
+  border: none;
+}
+
+.btn:hover {
+  cursor: pointer;
+}
